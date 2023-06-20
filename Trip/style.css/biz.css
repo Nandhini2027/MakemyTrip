@@ -1,0 +1,26 @@
+.main{
+    width: 37%;
+    height: 640px;
+    margin: 0 auto;
+    background-color: black;
+}
+.my-biz-bard{
+    width: 37%;
+    height: 330px;
+    background-color:#53b2fe;
+    position: absolute;
+}
+.my-b{
+    width: 12%;
+    height: 38px;
+    top: 63px;
+    left: 47px;
+    position:relative;
+}
+.my-biz-txt{
+    top: 120px;
+    margin-left: 45px;
+    position: absolute;
+    color: red;
+    font-size: 23px;
+}
